@@ -13,7 +13,7 @@ function calcSum() {
   //   for (let n = 1; n <= 1000; n++) {
   //     total = total + n;
   //   }
-  let total = (100 * 101) / 2;
+  let total = (1000 * 1001) / 2;
 
   sumOut.innerHTML = total;
 }
